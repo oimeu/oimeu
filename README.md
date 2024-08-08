@@ -7,4 +7,8 @@ I am a enthusiast from **computer networking**, **cybersecurity** and **Linux/Un
 
 ## Social Media / Contacts
 
-![discord](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6918e57475a843f59f_icon_clyde_black_RGB.svg): kael_inside ![telegram](https://www.svgrepo.com/show/452115/telegram.svg): @ritecfy 
+  <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6918e57475a843f59f_icon_clyde_black_RGB.svg" alt="discord" width="200" height="200"> : kael_inside
+  <img src="https://www.svgrepo.com/show/452115/telegram.svg" alt="telegram" width="200" height="200"> : @ritecfy
+  
+
+
