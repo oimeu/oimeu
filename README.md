@@ -6,7 +6,7 @@
 
 </p>
 <p align="center"> 
-  Bralizian (🇧🇷) I am a enthusiast from computer networking, cybersecurity and Linux/Unix!! (They uses Arch Linux)
+  Brazilian (🇧🇷) I am a enthusiast from computer networking, cybersecurity and Linux/Unix!! (They uses Arch Linux)
 </p>
 
 ## Social Media / Contacts
