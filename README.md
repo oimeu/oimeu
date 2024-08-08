@@ -1,7 +1,9 @@
 ## I am Kael!!
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/49aa8b91-4328-4400-8766-060c5c6354d3" alt="teste"> >_<
+  <img src="https://github.com/user-attachments/assets/765ce3c4-da36-4ee5-90d2-f003f6caa28d" alt="teste"> >_<
+                                                                                                             
+
 </p>
 <p align="center"> 
   Bralizian (🇧🇷) I am a enthusiast from computer networking, cybersecurity and Linux/Unix!! (They uses Arch Linux)
