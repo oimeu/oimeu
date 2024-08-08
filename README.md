@@ -1,10 +1,9 @@
 ## I am Kael!!
 
 
-    
-<p align="center">   
+ 
   Brazilian (🇧🇷) I am a enthusiast from computer networking, cybersecurity and Linux/Unix!! (They uses Arch Linux) 
-</p>
+
 
 <div style="display: inline_block"><br>
    
