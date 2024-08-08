@@ -3,3 +3,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/77df829e-9418-4c47-babf-1100b0df9ea3" alt="teste"> >_<
 </p>
+I am a enthusiast from **computer networking**, **cybersecurity** and **Linux/Unix**!!
+
+## Social Media / Contacts
+
+![discord](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6918e57475a843f59f_icon_clyde_black_RGB.svg): kael_inside ![telegram](https://www.svgrepo.com/show/452115/telegram.svg): @ritecfy 
