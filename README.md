@@ -2,7 +2,7 @@
 
 
  
-  Brazilian (🇧🇷) I am a enthusiast from computer networking, cybersecurity and Linux/Unix!! (They uses Alpine Linux) 
+  Brazilian (🇧🇷) I am a enthusiast from computer networking, cybersecurity and Linux/Unix!! (They uses Artix Linux) 
 
 
 <div style="display: inline_block"><br>
