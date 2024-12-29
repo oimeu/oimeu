@@ -2,9 +2,12 @@
 
 
  
-  Brazilian (🇧🇷) I am a enthusiast from computer networking, and Linux/Unix!! (They uses Artix Linux) 
+  Brazilian (🇧🇷) I am a enthusiast from computer networking, and Linux/Unix!!
 
+  <img align="right" src="https://github.com/user-attachments/assets/765ce3c4-da36-4ee5-90d2-f003f6caa28d" alt="teste" >
+    <h4 align="right"> Non-binary >-< </h4>
 
+     
 <div style="display: inline_block"><br>
   
  </div>
